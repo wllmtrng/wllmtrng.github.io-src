@@ -86,4 +86,6 @@ SITEMAP = {
     'format': 'xml'
 }
 
+IGNORE_FILES = ['.ipynb_checkpoints']
+
 IPYNB_EXTEND_STOP_SUMMARY_TAGS = [('h2', None), ('ol', None), ('ul', None)]
