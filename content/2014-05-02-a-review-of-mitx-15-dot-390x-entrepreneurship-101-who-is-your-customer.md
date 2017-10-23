@@ -23,7 +23,7 @@ at this site if there is something of interest.
 
 I will now give a brief overview of the class I audited:
 
-##MITx: 15.390x Entrepreneurship 101: Who is your customer?##
+## MITx: 15.390x Entrepreneurship 101: Who is your customer?
 By lecturing about **Market Segmentation**,
 **Beachhead Market**, **End User Profile**, **Total
 Addressable Market**, and **Persona**, [Bill Aulet][2] and
